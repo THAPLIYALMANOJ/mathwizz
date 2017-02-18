@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.ardyvert.mathwizz" version="1.0.0">
+<name>MathWizz</name>
+<description>An app to help students with O level mathematics.Includes topic by topic lectures and exam questions.</description >
+<platform name="android"/>
+<author email="burtchulu@gmail.com" href="https://ardyvert.github.io/mathwizz/">Burton Chulu</author >
+<preference name ="permissions" value="none" ></preference>
+</widget>
